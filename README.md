@@ -9,8 +9,8 @@
 - **Languages:** Java, JavaScript, HTML, CSS  
 - **Backend:** Spring Boot, Hibernate, REST APIs  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools & Platforms:** Git, Postman, Docker, AWS  
+- **Databases:** MySQL, Oracle SQL
+- **Tools & Platforms:** Git
 
 ## 📌 Featured Projects
 🔹 **[Personal Finance Tracker](#)** - A finance and investment management app 📊  
